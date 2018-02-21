@@ -1,0 +1,201 @@
+
+[
+  {
+    "CVS":{
+      "ARBs" : {
+        "valsartan": {
+          "dosage":"160-320mg",
+          "generics":["Valsacor, Valtensin, Diovan, Nortivan, Valsavil, Sarteg, Valsalen, Exforge, Wamlox, Vapress, Sartoval, Valstor, Suvartar"]
+        },
+        "telmisartan": {
+          "dosage":"80mg",
+          "generics":["Micardis, Telmisartan Telmisartan/HCT Telmitan, Telmotens, Telsart Teva, Teva, Tezeo, Tolucombi, Tolura, Twynsta"]
+        },
+        "losartan": {
+          "dosage":"50-100mg",
+          "generics":["Co-hypertonic, Lorista, Lozap, Rasoltan, Tores"]
+        },
+        "candesartan": {
+          "dosage":"8-32mg",
+          "generics":["Acrux, Atacand, Candecard Cantab, Carzap, Repido"]
+        },
+        "olmesartan": {
+          "dosage":"20-40mg",
+          "generics":["Olmesta, Tensar, Tespadan"]
+        },
+        "irbesartan": {
+          "dosage":"150-300mg",
+          "generics":["Co-irbesso, Irbec, Irbesan, Irbesartan Accord, Irprezide"]
+        }
+      },
+      "ACEs":{
+        "enalapril":{
+          "dosage":"5-20mg",
+          "generics":["Berlipril, Renapril, Renitec, Enahexal, Enap, Laprilen"]
+        },
+        "ramipril":{
+          "dosage":"5-10mg",
+          "generics":["Tritace, Vivace, Tamayra, Ramipril Teva, Ramimed, Ramihexal, Cardifriend"]
+        },
+        "lisinopril":{
+          "dosage":"5-20mg",
+          "generics":["Linipril, Cordacare, Dironorm, Diroton, Lisigama, Lisinopril Unifarm, Lizopril, Skopryl, Vitopril"]
+        },
+        "perindopril":{
+          "dosage":"different salts",
+          "generics":["Prestarium, Zaprinel, Stopress, Prenessa, Noliprel, Daxpamil Duo, Myden, Amlessa, Pontea"]
+        },
+        "benazepril":{
+          "dosage":"20mg",
+          "generics":["Cibadrex, Cordibenz plus"]
+        },
+        "fosinopril":{
+          "dosage":"10-20mg",
+          "generics":["Fosicard, Monopril, Monozide"]
+        },
+        "quinapril":{
+          "dosage":"10-20mg",
+          "generics":["Accupro, Accuzide, Corabace"]
+        },
+        "trandolapril":{
+          "dosage":"0,5-4mg",
+          "generics":["Gopten, Tarka, Tensotran"]
+        }
+      },
+      "BetaBlockers":{
+        "bisoprolol":{
+          "dosage":"2,5-10mg",
+          "generics":["Concor, Concor Cor, Lodoz, Sobycombi, Blokbis, Bisostad, Bisor, Bisolen, Bisohexal, Biblok, Biprol, Coronal"]
+        },
+        "metoprolol":{
+          "dosage":"tartrate and succinate",
+          "generics":["Corvitol, Egilok, Betaloc, Metaprolol Stada, Metostad, Succiprol, Betablokada"]
+        },
+        "nebivolol":{
+          "dosage":"5mg",
+          "generics":["Nebilet, Nevolen, Nebilan, Nebivolol Actavis, Nebivolol Teva, Nebicard, Cardiostad, Bravylol, Bivolet"]
+        },
+        "carvedilol":{
+          "dosage":"6,25-25mg",
+          "generics":["Dilatrend, Talliton, Coryol, Carvilex, Carvetrend, Carvedilol Medica, Carvedil, Carvedigamma, Avernol"]
+        }
+      },
+      "CaBlockers":{
+        "amlodipin":{
+          "dosage":"5-10mg",
+          "generics":["Norvasc, Amloteron, Prestarium Co, Tenloris, Zaprinel A, Accel, Agen, Amlodigamma, Amlodipin Alkaloid, Amlodipin Medica, Amlopin, Amlovask, Caduet, Dironorm, Luxtanor, Neodipin, Sobycombi, Tamayra, Tenox, Tespadan, Vivace Duo"]
+        },
+        "nifedipin":{
+          "dosage":"N/A",
+          "generics":["Adalat, Cordaflex, Corinfar, Korincare"]
+        },
+        "lacidipin":{
+          "dosage":"4mg",
+          "generics":["Lacipil"]
+        },
+        "lercanidipin":{
+          "dosage":"10-20mg",
+          "generics":["Areta, Kapidin, Lecalpin, Renovia, Tevaler"]
+        },
+        "felodipin":{
+          "dosage":"2,5-10mg",
+          "generics":["Auronal, Felohexal, Plendil, Presid"]
+        },
+        "verapamil":{
+          "dosage":"40-240mg",
+          "generics":["Isoptin, Verogalid, Tarka, Actavis, Sofarma, 4aikafarma"]
+        },
+        "diltiazem":{
+          "dosage":"60-90mg",
+          "generics":["Aldizem, Actavis, 4aikafarma, Sofarma"]
+        }
+      },
+      "Diuretics":{
+        "HCT":{
+          "dosage":"6,25-25mg",
+          "generics":["Accuzide, Dehydratin neo, Dehydrazid, Diuretidin, Hypodehydra, Triampur compositum, Monozide"]
+        },
+        "Furosemide":{
+          "dosage":"40mg",
+          "generics":["Furanthril"]
+        },
+        "Torasemide":{
+          "dosage":"5-10mg",
+          "generics":["Trifas, Trifas cor, Torazidex, Torsit SR"]
+        },
+        "Spironolacton":{
+          "dosage":"25-100mg",
+          "generics":["Spironolacton Actavis, Spironolacton 4aikafarma"]
+        },
+        "Indapamid":{
+          "dosage":"1,5-2,5mg",
+          "generics":["Tertenzif, Softenzif, Rawel, Pisizif, Neopamid SR, Neopamid, Indolen, Indipam, Daxpamil Duo, Co-Amlessa, Mivara, Alkaloid"]
+        },
+        "Triamteren":{
+          "dosage":"150-250mg",
+          "generics":["Diuretidin, Triampur Compositum"]
+        },
+        "Eplerenone":{
+          "dosage":"25-50mg",
+          "generics":["Carditrust"]
+        }
+      },
+      "Statins":{
+        "atorvastatin":{
+          "dosage":"10-40mg",
+          "generics":["Amlator, Aragil, Atorgen, Atoris, Atorva, Atorvastatin Genericon, Atorvin, Atorvistat K, Avanor, Caduet, Luxtanor, Sortis, Torvacard, Torvalipin, Tulip"]
+        },
+        "simvastatin":{
+          "dosage":"5-40mg",
+          "generics":["Actalipid, Holesta, Neosimva, Simgal, Simvacor, Simvastatin Accord, Simvastatin Genericon, Simvastatin Medica, Vasilip, Zeplan, Zocor"]
+        },
+        "rosuvastatin":{
+          "dosage":"5-40mg",
+          "generics":["Crestor, Romasic, Rosistat, Rossta, Rosucard, Rosuvanor, Rosuvistat, Roswera, Rovasta, Suzastor, Tintaros, Zaranta, Zenon"]
+        },
+        "fluvastatin":{
+          "dosage":"20-80mg",
+          "generics":["Holetar, Lescol"]
+        },
+        "lovastatin":{
+          "dosage":"10-20mg",
+          "generics":["Medostatin"]
+        }
+      },
+      "Others":{
+        "clonidine":{
+          "dosage":"Lazy",
+          "generics":["Chlophazolin, Chlofadon (+chlorthalidone)"]
+        },
+        "Moxonidine":{
+          "dosage":"Lazy",
+          "generics":["Moxogama, Moxotens, Physiotens"]
+        },
+        "Rilmenidine":{
+          "dosage":"Lazy",
+          "generics":["Tenaxum, Rilmenix"]
+        },
+        "Molsidomin":{
+          "dosage":"Lazy",
+          "generics":["Molsidomin WZF"]
+        },
+        "Doxasosin":{
+          "dosage":"Lazy",
+          "generics":["Cardura, Kamiren, Zoxon"]
+        },
+        "Isosorbiddinitrat":{
+          "dosage":"Lazy",
+          "generics":["Isodinit, Isoket, Isoket spray, Kardiket retard"]
+        },
+        "Isosorbidmononitrat":{
+          "dosage":"Lazy",
+          "generics":["Olicard, Neosorbid"]
+        },
+        "Tamsulozine":{
+          "dosage":"Lazy",
+          "generics":["Omnic, Tamsol, Focusin, Tamsudil, Tanyz, Urimax, Vesomni, Duodart"]
+        }
+      }
+    }
+  }
+]
